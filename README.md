@@ -5,7 +5,7 @@ Interactive HR Analytics Dashboard built in Tableau to track employee attrition,
 
 # HR Analytics Dashboard | Tableau Project
 
-![Dashboard Preview]<a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%20(10).png">project-img.png </a>
+![Dashboard Preview]<a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%20(11).png">project-img.png </a>
 
 **My First Tableau Project** — End-to-End HR Analytics Dashboard built from scratch following the popular "Tableau Dashboard from Start to End" tutorial.
 
@@ -75,7 +75,7 @@ This interactive **HR Dashboard** provides deep insights into employee data, att
 - `HR_Dashboard.twbx` → <a href="https://public.tableau.com/app/profile/siva.mani8858/viz/HRWORKBOOK_17759830973970/Dashboard1"> tablue-public image</a> 
 - `HR_Dashboard.twb` → Tableau Workbook
 - `data/` → <a href ="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv">
-- `screenshots/` → <a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%20(10).png">project-img.png </a>
+- `screenshots/` → <a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%20(11).png">project-img.png </a>
 
 ##  How to View the Dashboard
 
