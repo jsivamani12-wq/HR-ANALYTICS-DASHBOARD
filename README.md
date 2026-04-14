@@ -12,8 +12,8 @@ Interactive HR Analytics Dashboard built in Tableau to track employee attrition,
 ## Project Overview
 This interactive **HR Dashboard** provides deep insights into employee data, attrition trends, department performance, and key HR metrics. It helps HR teams make data-driven decisions on workforce management, retention, and recruitment.
 
-**Data Source**: HR Employee dataset <a href ="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv"> project data set</a> 
-**WORK-BOOK**: HR DASHBOARD WORKBOOK <a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20WORK%20BOOK.twbx"> PROJECT-WORKBOOK</a>
+**Data Source**: HR Employee dataset <a href ="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv"> project data set</a>.
+**WORK-BOOK**: HR DASHBOARD WORKBOOK <a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20WORK%20BOOK.twbx"> PROJECT-WORKBOOK</a>.
 **Tool Used**: Tableau Desktop  | MS excel
 
 ##  Key Features & Visualizations
