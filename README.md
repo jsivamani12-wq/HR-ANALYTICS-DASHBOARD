@@ -74,9 +74,9 @@ This interactive **HR Dashboard** provides deep insights into employee data, att
 
 - `HR_Dashboard.twbx image ` → <a href="https://public.tableau.com/app/profile/siva.mani8858/viz/HRWORKBOOK_17759830973970/Dashboard1"> tablue-public image</a> 
 - `HR_Dashboard.twbx` → <a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20WORK%20BOOK.twbx"> work-book.twbx</a>
-- `data/` → <a href ="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv"> </a>
+- `data/` → <a href ="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv"> data set </a>
 - `screenshots/` → <a href="https://github.com/jsivamani12-wq/HR-ANALYTICS-DASHBOARD/blob/main/Screenshot%20(11).png">project-img.png </a>
-- `tablue public link` → <a href=" https://www.tableau.com/tableau-login-hub"> tablue public </a>
+- `tablue public link` → <a href="https://www.tableau.com/products/public"> tablue public </a>
 ##  How to View the Dashboard
 
 1. Download the `.twbx` file
